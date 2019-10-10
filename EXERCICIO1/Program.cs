@@ -19,10 +19,11 @@ namespace EXERCICIO1
             maior = int.Parse(Console.ReadLine());
             Console.Write("Receber n2 do usuario: ");
             menor = int.Parse(Console.ReadLine());
-            Console.WriteLine("A diferença de n1: " + maior + " e n2: " + menor + " é: " + diferenca(maior, menor));
+            Console.WriteLine("A diferença de n1: " + maior + " e n2: " + menor + " é: " + dife(maior, menor));
             Console.ReadKey();
         }
-        static int diferenca(int maior, int menor)
+        static int dife(int maior, int menor)
+            // mudei o nome do metodo
         {
             // tinha uma chave a mais
             string D = "";

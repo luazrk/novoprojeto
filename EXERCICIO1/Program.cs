@@ -14,10 +14,10 @@ namespace EXERCICIO1
 
 
 
-
-            Console.Write("Receber n1 do usuario: ");
+            // alteração no Console.Write
+            Console.Write("Receber pimeiro número do usuario: ");
             maior = int.Parse(Console.ReadLine());
-            Console.Write("Receber n2 do usuario: ");
+            Console.Write("Receber segundo número do usuario: ");
             menor = int.Parse(Console.ReadLine());
             Console.WriteLine("A diferença de n1: " + maior + " e n2: " + menor + " é: " + dife(maior, menor));
             Console.ReadKey();

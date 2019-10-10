@@ -1,2 +1,9 @@
 C:\Users\aluno2\Desktop\novoprojeto\EXERCICIO1\obj\Debug\EXERCICIO1.csprojAssemblyReference.cache
 C:\Users\aluno2\Desktop\novoprojeto\EXERCICIO1\obj\Debug\EXERCICIO1.csproj.CoreCompileInputs.cache
+C:\Users\aluno2\Desktop\a\novoprojeto\EXERCICIO1\bin\Debug\EXERCICIO1.exe.config
+C:\Users\aluno2\Desktop\a\novoprojeto\EXERCICIO1\bin\Debug\EXERCICIO1.exe
+C:\Users\aluno2\Desktop\a\novoprojeto\EXERCICIO1\bin\Debug\EXERCICIO1.pdb
+C:\Users\aluno2\Desktop\a\novoprojeto\EXERCICIO1\obj\Debug\EXERCICIO1.csprojAssemblyReference.cache
+C:\Users\aluno2\Desktop\a\novoprojeto\EXERCICIO1\obj\Debug\EXERCICIO1.csproj.CoreCompileInputs.cache
+C:\Users\aluno2\Desktop\a\novoprojeto\EXERCICIO1\obj\Debug\EXERCICIO1.exe
+C:\Users\aluno2\Desktop\a\novoprojeto\EXERCICIO1\obj\Debug\EXERCICIO1.pdb

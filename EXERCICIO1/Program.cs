@@ -24,6 +24,7 @@ namespace EXERCICIO1
         }
         static int diferenca(int maior, int menor)
         {
+            // tinha uma chave a mais
             string D = "";
             if (maior > menor)
                 return maior - menor;
@@ -33,4 +34,4 @@ namespace EXERCICIO1
 
     }
 }
-}
+

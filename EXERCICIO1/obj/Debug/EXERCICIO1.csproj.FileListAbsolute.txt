@@ -1,0 +1,2 @@
+C:\Users\aluno2\Desktop\novoprojeto\EXERCICIO1\obj\Debug\EXERCICIO1.csprojAssemblyReference.cache
+C:\Users\aluno2\Desktop\novoprojeto\EXERCICIO1\obj\Debug\EXERCICIO1.csproj.CoreCompileInputs.cache
